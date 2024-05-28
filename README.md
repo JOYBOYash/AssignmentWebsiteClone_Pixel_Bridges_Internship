@@ -5,3 +5,5 @@ The Clone has Home Section and Footer with Header exactly as shown in the refere
 There can be more things added there like separate pages for Dashboard and Earn sections
 The Earn and Dashboard Sections are requiring of advanced CSS and JS elements to work
 Hence this can be a great practice when time sees fit
+
+# Working model Link - https://drive.google.com/file/d/1jY3gQXZwutU3fOTTEnk2Rumj2V9F-xLP/view?usp=sharing
